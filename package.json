@@ -1,0 +1,31 @@
+{
+  "name": "example-passport-github-auth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolenkoanton92/example-passport-github-auth.git"
+  },
+  "keywords": [
+    "passportjs",
+    "passport",
+    "auth",
+    "github"
+  ],
+  "author": "Anton Nikolenko <nikolenkoanton92@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolenkoanton92/example-passport-github-auth/issues"
+  },
+  "homepage": "https://github.com/nikolenkoanton92/example-passport-github-auth#readme",
+  "dependencies": {
+    "cmdenv": "0.3.0",
+    "express": "4.13.3",
+    "passport": "0.3.2",
+    "passport-github": "1.0.0"
+  }
+}
