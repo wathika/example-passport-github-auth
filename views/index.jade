@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  if !user
+    h2 Please auth to see profile information
+  else
+    h2= user
